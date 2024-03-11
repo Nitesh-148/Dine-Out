@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Dine-Out/static/css/main.70648099.css",
+    "main.js": "/Dine-Out/static/js/main.67934aca.js",
+    "static/js/453.e6cd13ab.chunk.js": "/Dine-Out/static/js/453.e6cd13ab.chunk.js",
+    "static/media/restauranfood.jpg": "/Dine-Out/static/media/restauranfood.ee9f7a36a981a461581a.jpg",
+    "static/media/Logo.svg": "/Dine-Out/static/media/Logo.fd87fc34e15316b670ea115ce700cd15.svg",
+    "index.html": "/Dine-Out/index.html",
+    "main.70648099.css.map": "/Dine-Out/static/css/main.70648099.css.map",
+    "main.67934aca.js.map": "/Dine-Out/static/js/main.67934aca.js.map",
+    "453.e6cd13ab.chunk.js.map": "/Dine-Out/static/js/453.e6cd13ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70648099.css",
+    "static/js/main.67934aca.js"
+  ]
+}
